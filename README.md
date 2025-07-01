@@ -108,6 +108,13 @@ This idea was inspired by techniques from the official DCGAN paper (e.g., removi
 * [Radford et al., DCGAN Paper (2015)](https://arxiv.org/abs/1511.06434)
 * [GeeksForGeeks DCGAN tutorial](https://www.geeksforgeeks.org/machine-learning/deep-convolutional-gan-with-keras/)
 
+## 🙌 Why I'm Sharing This
+
+Even though I did not achieve the expected results, I’m sharing this repo to:
+- Document my learning process
+- Help others who might be trying DCGANs on CelebA
+- Encourage open discussion on improving GAN training  
+
 ## 🤝 Got Suggestions or Improvements?
 
 If you have ideas to improve this project, managed to get better results, or just want to connect — feel free to reach out!  
